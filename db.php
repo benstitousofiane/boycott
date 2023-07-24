@@ -10,7 +10,7 @@
         $db = new PDO("mysql:host=" . HOST . ";dbname=" . DB_NAME, USER, PASS);
     }
     catch(PDOException $e){
-        echo "Erreur, connexion non étable à la base de donnée : ";
+        echo "Erreur, connexion non établie avec la base de donnée : ";
         echo "$e";
     }
 ?>
