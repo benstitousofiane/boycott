@@ -1,4 +1,4 @@
-# boycott
+# boycott📨
 Ma première appli web avec une base de donnée, un simple chat.
 
 Pour des raison de responsabilités, je n'hébergerait pas moi-même cette appli.
